@@ -1,0 +1,12 @@
+stepdefinitons\amazonstepdefinitions.class
+pages\CHQApages.class
+runners\ParalelTestRunner1.class
+runners\Runner.class
+stepdefinitons\Hooks.class
+stepdefinitons\EditorStepDefinitions.class
+stepdefinitons\concortHotelStepDefinitions.class
+utilties\Driver.class
+pages\EditorPage.class
+pages\AmazonPages.class
+runners\ParalelTestRunner2.class
+utilties\ConfigReader.class
